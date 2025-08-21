@@ -5,3 +5,4 @@ function getRectangleArea(width, height) {
 console.log(getRectangleArea(5, 10));
 
 // comment 
+// React is used mainly for front end
