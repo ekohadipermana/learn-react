@@ -4,3 +4,4 @@ function getRectangleArea(width, height) {
 
 console.log(getRectangleArea(5, 10));
 
+// comment 
