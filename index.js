@@ -8,3 +8,4 @@ console.log(getRectangleArea(5, 10));
 // React is used mainly for front end
 // Quick inspiration today: keep on your track
 // finding a regular job is not your only option today 
+// your age is 46 now, do you think any company will hire you? No!
